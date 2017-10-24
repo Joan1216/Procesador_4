@@ -1,0 +1,2 @@
+vhdl work "instructionMemory.vhd"
+vhdl work "Tb_instructionMemory.vhd"

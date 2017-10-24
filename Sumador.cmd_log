@@ -1,0 +1,1 @@
+vhdtdtfi -prj Procesador_1 -o C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Sumador.vhi -module Sumador -template D:/Procesador/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Sumador.vhd 

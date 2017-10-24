@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Tb_Procesador2_isim_beh.exe" -prj "C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Tb_Procesador2_beh.prj" "work.Tb_Procesador2" 

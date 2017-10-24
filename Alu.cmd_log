@@ -1,0 +1,4 @@
+vhdtdtfi -prj Procesador_1 -o C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Alu.vhi -module Alu -template D:/Procesador/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Alu.vhd 
+vhdtdtfi -prj Procesador_1 -o C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Alu.vhi -module Alu -template D:/Procesador/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Alu.vhd 
+vhdtdtfi -prj Procesador_1 -o C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Alu.vhi -module Alu -template D:/Procesador/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Alu.vhd 
+vhdtdtfi -prj Procesador_1 -o C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Alu.vhi -module Alu -template D:/Procesador/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Alu.vhd 

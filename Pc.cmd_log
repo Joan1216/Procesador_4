@@ -1,0 +1,3 @@
+vhdtdtfi -prj Procesador_1 -o C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Pc.vhi -module Pc -template D:/Procesador/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Pc.vhd 
+vhdtdtfi -prj Procesador_1 -o C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Pc.vhi -module Pc -template D:/Procesador/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Pc.vhd 
+vhdtdtfi -prj Procesador_1 -o C:/Users/joanc/Desktop/Procesador_1/Procesador_1/Pc.vhi -module Pc -template D:/Procesador/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work Pc.vhd 
